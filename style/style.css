@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+ul {
+    list-style: none;
+}
+li {
+    border: solid 1px; black;
+    padding: 4px;
+
+}
+#aboutMe {
+    border: solid 1px black;
+}
